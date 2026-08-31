@@ -17,7 +17,7 @@ public class main {
 
         Estudiante[] estudiantes = {
         estudiante1, estudiante2, estudiante3
-        }
+        };
 
         for (Estudiante estudiante : estudiantes) {
             System.out.println("Nombre: " + estudiante.nombre + " - Promedio: " + estudiante.promedio);
