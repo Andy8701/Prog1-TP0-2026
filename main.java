@@ -8,11 +8,11 @@ public class main {
         estudiante1.promedio = 8.5;
 
         Estudiante estudiante2 = new Estudiante(
-"Maria", "Gomez", 22, "Medicina", 9.2
+        "Maria", "Gomez", 22, "Medicina", 9.2
         );
 
         Estudiante estudiante3 = new Estudiante(
-"Carlos", "Lopez", 21, "Derecho", 7.8
+        "Carlos", "Lopez", 21, "Derecho", 7.8
         );
 
         Estudiante[] estudiantes = {
