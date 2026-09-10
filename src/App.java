@@ -1,5 +1,5 @@
 public class App {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         Estudiante estudiante1 = new Estudiante();
         estudiante1.nombre = "Juan";
         estudiante1.apellido = "Perez";
